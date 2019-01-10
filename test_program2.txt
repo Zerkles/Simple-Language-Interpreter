@@ -1,0 +1,4 @@
+daniel=3;
+borubar=19;
+adam=6;
+PRINT borubar-adam+daniel;

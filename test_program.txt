@@ -1,0 +1,4 @@
+alan=17;
+monika=5;
+IF alan>monika alan=alan-5;
+PRINT alan;
